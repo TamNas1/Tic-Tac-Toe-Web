@@ -1,0 +1,6 @@
+.main-container{
+  display: grid;
+  grid-template-rows: 17% 60% 17%;
+  grid-row-gap: 1%;
+  height: 80%;
+}
